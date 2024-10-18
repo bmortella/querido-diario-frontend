@@ -61,7 +61,7 @@ yarn ng serve
   </a>
 </p>
 
-Join our [community channel](https://go.ok.org.br/discord) to exchange ideas about the projects, ask questions, request help for contributions, and discuss civic innovation in general.
+Join our [community channel](https://go.ok.org.br/discord) to exchange ideas about the projects, ask questions, request help with contributions, and discuss civic innovation in general.
 
 # Thanks
 The application was initially developed in collaboration with the people from the software studio [Jurema](https://jurema.la/).
