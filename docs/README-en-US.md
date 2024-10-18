@@ -11,6 +11,8 @@ Find out more about [technologies](https://queridodiario.ok.org.br/tecnologia) a
 
 # Summary
 - [How to contribute](#how-to-contribute)
+- [Development environment](#development-environment)
+- [How to run](#how-to-run)
 - [Support](#support)
 - [Thanks](#thanks)
 - [Open Knowledge Brazil](#open-knowledge-brazil)
