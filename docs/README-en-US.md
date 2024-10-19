@@ -1,13 +1,13 @@
 **English (US)** | [Português (BR)](/docs/README.md) 
 
 <p align="center">
-  <a href="https://queridodiario.ok.org.br/sobre" target="_blank"> <img alt="Querido Diário" src="./images/querido-diario-logo.png" width="200">
+  <a href="https://queridodiario.ok.org.br/en-US/sobre" target="_blank"> <img alt="Querido Diário" src="./images/querido-diario-logo.png" width="200">
   </a>
 </p>
 
 # Frontend (website)
 
-Find out more about [technologies](https://queridodiario.ok.org.br/tecnologia) and [history](https://queridodiario.ok.org.br/sobre) of the project on the [Querido Diário website](https://queridodiario.ok.org.br)
+Find out more about [technologies](https://queridodiario.ok.org.br/en-US/tecnologia) and [history](https://queridodiario.ok.org.br/en-US/sobre) of the project on the [Querido Diário website](https://queridodiario.ok.org.br)
 
 # Summary
 - [How to contribute](#how-to-contribute)
